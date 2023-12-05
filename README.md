@@ -18,7 +18,7 @@ The 7 steps from the RMF we are going to follow for the implementation of the pr
 ** **NOTE:** For the SDLC methodology, I am currently thinking about the Prototyping model, that is 'we are assuming that we are only developing an understanding of the system requirements without actually developing a final operational system. However, if I feel the time allows us, we will switch to the **Waterfall model;** meaning we will actually develop the system. 
 
 ** Frameworks we will need to comply with:
--NIST SP  800-39
+- NIST SP  800-39
 - HIPAAH
 - PCI DSS
 - FedRAMP
