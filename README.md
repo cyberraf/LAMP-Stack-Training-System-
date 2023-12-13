@@ -23,3 +23,12 @@ The 7 steps from the RMF we are going to follow for the implementation of the pr
 - PCI DSS
 - FedRAMP
 - ISO 27001
+
+**NIST Risk Management Framework Exploration**
+**I. Prepare Stage:**
+  **A. Organizational Level**
+      **a. Task P-1: Risk Management Roles**
+      This task consists of identifying individuals that will hold key roles for executing the Risk Management Framework (RMF). The expected output is a documented RMF role assignments.
+      The primary roles in charge of this task are Head of Agency or Chief Information Officer(CIO). Some Supporting roles are the Authorizing Official, Risk Executive, and Senior Agency Information Security Officer(AISO).
+      That said, I will be documenting as the Chief Information Officer (CIO) of **_TarbariTech Inc._** 
+      Let's refer to the [NIST SP 800-37 Revision 2]([url](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf), appendix D to identify these roles.
